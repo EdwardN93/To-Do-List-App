@@ -1,0 +1,10 @@
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\bin\Debug\To Do List App.exe.config
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\bin\Debug\To Do List App.exe
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\bin\Debug\To Do List App.pdb
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To Do List App.exe
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To Do List App.pdb
+D:\Coding Training\C#\To Do List\To Do List App\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
